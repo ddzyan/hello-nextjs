@@ -32,6 +32,8 @@ npm start
 npm run build
 ```
 
+open url http://localhost:3000/
+
 ### Next 特性
 
 next 在 react 的基础上为组件添加一个新的特性 getInitialProps ，用于获取并处理组件的属性，返回组件的默认属性。
